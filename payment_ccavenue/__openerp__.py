@@ -5,6 +5,7 @@
     'summary': 'Payment Acquirer: CCAvenue Implementation',
     'description': """CCAvenue Payment Acquirer""",
     'author': 'Deep Bundela',
+    "website": "",
     'depends': ['payment'],
     'data': [
         'views/ccavenue.xml',
@@ -12,5 +13,5 @@
         'data/payment_ccavenue_data.xml',
         'views/payment_ccavenue_template.xml',
     ],
-    'license': 'GPLv3',
+    'license': 'AGPL-3',
 }

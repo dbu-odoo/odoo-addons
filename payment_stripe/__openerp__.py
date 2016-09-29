@@ -7,6 +7,7 @@
     'description': """Stripe Payment Acquirer""",
     'depends': ['payment'],
     'author': 'Deep Bundela',
+    "website": "",
     'data': [
         'views/payment_views.xml',
         'views/payment_stripe_templates.xml',
@@ -14,5 +15,5 @@
     ],
     'images': ['static/description/icon.png'],
     'installable': True,
-    'license': 'GPLv3',
+    'license': 'AGPL-3',
 }

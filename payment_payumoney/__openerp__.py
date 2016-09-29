@@ -9,11 +9,12 @@
     PayUmoney payment gateway supports only INR currency.
     """,
     'author': 'Deep Bundela'
+    "website": "",
     'depends': ['payment'],
     'data': [
         'views/payment_views.xml',
         'views/payment_payumoney_templates.xml',
         'data/payment_acquirer_data.xml',
     ],
-    'license': 'GPLv3',
+    'license': 'AGPL-3',
 }
