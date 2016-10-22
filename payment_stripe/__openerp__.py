@@ -15,5 +15,4 @@
     ],
     'images': ['static/description/icon.png'],
     'installable': True,
-    'license': 'AGPL-3',
 }

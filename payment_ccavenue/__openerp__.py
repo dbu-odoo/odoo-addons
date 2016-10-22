@@ -13,5 +13,4 @@
         'data/payment_ccavenue_data.xml',
         'views/payment_ccavenue_template.xml',
     ],
-    'license': 'AGPL-3',
 }
